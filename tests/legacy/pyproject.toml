@@ -6,7 +6,7 @@ authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-urllib3 = "1.26.2"
+urllib3 = "1.26.5"
 
 # This is to force to use the Pypi legacy API
 [[tool.poetry.source]]
